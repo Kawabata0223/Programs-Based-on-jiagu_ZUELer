@@ -144,10 +144,5 @@ jiagu_Page.html
 
 ![image](https://github.com/Kawabata0223/Programs-Based-on-jiagu_ZUELer/blob/master/pic/Pasted%20image%2020240315123520.png)
 
-## 七、补充说明
 
-如果您无法正常运行程序，烦请通过以下方式联系我，您的任何批评指正都将使我们做的更好，感谢！
-
-QQ：2859571794
-微信：koregajiyuuda
 
